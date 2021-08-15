@@ -44,7 +44,7 @@ Pages Pro will use the Jekyll Engine for Obviouse Reasons! Check out the [Jekyll
 
 ### NECCESARY GUDIES! (pls read)
 **Here are some pretty important gudies to help you out on pages pro if you have 0 clue on how to do anything**
-- [**Download and Setting Up Pages Pro**]()
+- [**Download and Setting Up Pages Pro**](https://kadedevteam.github.io/GithubPagesPro/SettingUpPagesPro)
 - [EX MOD: Guides]()
 - [Using Pages Pro: Gudies]()
 - [Using Jekyll To Build Sites: Gudies]()
