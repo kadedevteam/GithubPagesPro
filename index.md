@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+## Welcome To Github Pages Pro!
 
-You can use the [editor on GitHub](https://github.com/kadedevteam/GithubPagesPro/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**All details for GithubPagesPro can be found here!**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Github Pages
+Github Pages is a program in github that allows you to create pages using the Jekyll Engine! it using .yml, .md, and .html files to build its site!
 
-### Markdown
+For more details see [GitHub Pages Homepage](https://pages.github.com/).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Github Pages Pro
+Github Pages Pro is a more advanced version of [Github Pages](https://pages.github.com/) as it is fully source and not engine based! you can make professianal websites easily! 
+> **Github Pages Pro Still Uses Jekyll as a base engine beacuse github pages just is like that!**
 
-```markdown
-Syntax highlighted code block
+### Contributing!
+Since Github Pages Pro is a github project that means all of you can help! you can learn how to help on the project and become a contributer [here](https://github.com/kadedevteam/GithubPagesPro/blob/gh-pages/CONTRIBUTING.md)
 
-# Header 1
-## Header 2
-### Header 3
+**Changelogs**
+- [LATEST HOTFIX]()
+- [2.4.2]()
+- [2.4.1]()
+- [2.4.0]()
+- [2.3.1]()
+- Find More Info on the offical [Github Pages Pro Repostirey Page](https://github.com/kadedevteam/Github-Pages-Pro)
 
-- Bulleted
-- List
+### Jekyll Engine!
 
-1. Numbered
-2. List
+Pages Pro will use the Jekyll Engine for Obviouse Reasons! Check out the [Jekyll Engine](https://jekyllrb.com/) for more info about the engine! You can find the `_config.yml`, `index.md`, and `default.html` in .Jekyll! or in the main source!
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kadedevteam/GithubPagesPro/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### NECCESARY GUDIES! (pls read)
+**Here are some pretty important gudies to help you out on pages pro if you have 0 clue on how to do anything**
+- [**Download and Setting Up Pages Pro**]()
+- [EX MOD: Guides]()
+- [Using Pages Pro: Gudies]()
+- [Using Jekyll To Build Sites: Gudies]()
+- [Configuring and Making Custom Domains/URL(S)]()
+- [REALESING YOUR WEBSITE]()
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages Pro? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+## Credits
+
+### Pages
+ - [Jeykll](https://twitter.com/ninja_muffin99)
+ - [KadeUp](https://twitter.com/phantomarcade3k)
+ - [Github](https://twitter.com/kawaisprite)
+
+### Pages Pro
+- [Github](https://twitter.com/KadeDeveloper) 
+- [Jekyll](https://twitter.com/KadeDeveloper)
+- [cybanYo](https://twitter.com/KadeDeveloper)
+- [The contributors](https://github.com/KadeDev/Kade-Engine/graphs/contributors)
+
+### Shoutouts
+- [GWebDev](https://github.com/GrowtopiaFli)
+- [Rozebud](https://github.com/ThatRozebudDude) 
+- [Puyo](https://github.com/daniel11420)
