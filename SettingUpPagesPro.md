@@ -63,4 +63,4 @@ Now We are ready to build our site and check it out!
 `demo` means that it will be realesed using your web Provider it only be viewable to **YOU** and after closing the tab the domain will be erased.
 
 ### Thats all info for installing github pages pro!
-### Check out more Guides at the [homepage](https://kadedevteam.github.io/GithubPagesPro/)!
+### Check out more Guides at the [homepage](https://kadedevteam.github.io/GithubPagesPro/#NECCESARY%20GUDIES!%20(pls%20read))!
