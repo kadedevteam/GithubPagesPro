@@ -22,6 +22,18 @@ Since Github Pages Pro is a github project that means all of you can help! you c
 - [2.3.1]()
 - Find More Info on the offical [Github Pages Pro Repostirey Page](https://github.com/kadedevteam/Github-Pages-Pro)
 
+### **DOWNLOADS**
+> All Downloads can be found here!
+
+**Pages Pro Builds**: [Windows Build]() ⋅ [MacOS Build]() ⋅ [Lunix Build]()
+
+**Github Desktop**: [Windows Build]() ⋅ [MacOS Build]() ⋅ [Lunix Build]()
+
+**Github Desktop: Pages Pro (add-on)**
+> IF you didnt know we have a Github Desktop App! you should download!
+
+[Windows Build]() ⋅ [MacOS Build]() ⋅ [No Lunix Build Yet :(]()
+
 ### Jekyll Engine!
 
 Pages Pro will use the Jekyll Engine for Obviouse Reasons! Check out the [Jekyll Engine](https://jekyllrb.com/) for more info about the engine! You can find the `_config.yml`, `index.md`, and `default.html` in .Jekyll! or in the main source!
