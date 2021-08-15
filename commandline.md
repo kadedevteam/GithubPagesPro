@@ -46,3 +46,35 @@ c:\Users\ninjamuffin99\Documents>cd HaxeFlixel-Projects
 c:\Users\ninjamuffin99\Documents\HaxeFlixel-Projects>
 ```
 There we go!
+
+### DIR / LS
+dir (Windows)
+ls  (Mac and Linux)
+
+
+These commands work in pretty much the exact same way. They show you the current directory.
+```
+C:\Users\ninjamuffin99\Documents\HaxeFlixel-Projects>dir
+Volume in drive C has no label.
+Volume Serial Number is 7CF9-09E9
+```
+Directory of C:\Users\ninjamuffin99\Documents\HaxeFlixel-Projects
+ 
+``` 
+03/25/2020  12:04 PM    <DIR>          .
+03/25/2020  12:04 PM    <DIR>          ..
+03/25/2020  12:04 PM    <DIR>          Cityhoppin2
+03/25/2020  12:03 PM    <DIR>          CoolGameHaha
+03/25/2020  12:04 PM    <DIR>          Vervian
+              0 File(s)              0 bytes
+              5 Dir(s)  168,012,500,992 bytes free
+```
+C:\Users\ninjamuffin99\Documents\HaxeFlixel-Projects>
+Typing in ‘dir’ will output something like this. This is what it looks like in Windows File Explorer
+
+![image](https://user-images.githubusercontent.com/84461200/129494306-d0c004c4-9b00-46d3-b339-ac34439bcc10.png)
+
+And that’s it! Simple commandline guide!
+```
+yes
+``
