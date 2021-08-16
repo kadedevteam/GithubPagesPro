@@ -8,7 +8,7 @@
 
 ## Dependinces!
 1. Install [Github Desktop](https://desktop.github.com/)!
-2. After installing [Github Desktop](https://desktop.github.com/) Install the [Github Pages](https://desktop.github.com/) add-on for Github Desktop!
+2. After installing [Github Desktop](https://desktop.github.com/) Install the [Github Pages](https://kadedevteam.github.io/Desktop/) add-on for Github Desktop!
 3. Install `git`.
 	 - Windows and MacOS: install from the [git-scm](https://git-scm.com/downloads) website.
 	 - Linux: install the `git` package: `sudo apt install git` (ubuntu), `sudo pacman -S git` (arch), etc... (you probably already have it)
