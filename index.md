@@ -45,15 +45,15 @@ Pages Pro will use the Jekyll Engine for Obviouse Reasons! Check out the [Jekyll
 ### NECCESARY GUDIES! (pls read)
 **Here are some pretty important gudies to help you out on pages pro if you have 0 clue on how to do anything**
 - [**Download and Setting Up Pages Pro**](https://kadedevteam.github.io/GithubPagesPro/SettingUpPagesPro)
-- [EX MOD: Guides]()
-- [Using Pages Pro: Gudies]()
-- [Using Jekyll To Build Sites: Gudies]()
-- [Configuring and Making Custom Domains/URL(S)]()
-- [REALESING YOUR WEBSITE]()
+- [EX MOD: Guides](https://kadedevteam.github.io/Documentations/)
+- [Using Pages Pro: Gudies](https://kadedevteam.github.io/Documentations/)
+- [Using Jekyll To Build Sites: Gudies](https://kadedevteam.github.io/Documentations/)
+- [Configuring and Making Custom Domains/URL(S)](https://kadedevteam.github.io/Documentations/)
+- [REALESING YOUR WEBSITE](https://kadedevteam.github.io/Documentations/)
 
 ### Support or Contact
 
-Having trouble with Pages Pro? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages Pro? Check out our [documentation](https://kadedevteam.github.io/Documentations/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 ## Credits
 
