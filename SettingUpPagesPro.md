@@ -2,7 +2,7 @@
 
 **NOTE**: This is for creating "Pages Pro" not Pages! if you want to check out how to install and use `Github Pages` check it out [here]()!
 
-**NOTE#2**:To build for Windows, you need to be on Windows. To build for Linux, you need to be on Linux. Same goes for macOS. You can build for html5/browsers on any platform.
+**NOTE#2**: You must have a repostiry created without branches! more info here: [link](https://kadedevteam.github.io/Pages-Guides/creating-site)
 
 **NOTE#3**: you should be familiar with the commandline. If not, read this short [guide](https://kadedevteam.github.io/GithubPagesPro/commandline).
 
