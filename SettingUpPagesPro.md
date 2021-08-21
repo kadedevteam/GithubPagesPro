@@ -56,7 +56,7 @@ Now We must get out web assets! if you check `/assets/` you will see its empty! 
 
 ## Building Our Site!
 Now We are ready to build our site and check it out! 
-1. Go into `export/realese/bin/` and open the `lib.git` and click "Create Repostory"
+1. Go into `export/website/<target>/bin/` `(target= html(version))` and open the `lib.git` and click "Create Repostory"
 2. After that the `lib.git` file should be gone!
 3. Now on the top of file explorer (or any app your using to check out files) you should fine "Files" then inside of it click "Open" then "Open With Powershell"
 4. Inside of Powershell type `git build html5 -<target>` replace targert with either `offical` or `demo`. `offical` means it will be realsed with a Jekyll Domain and will be accsesable.
