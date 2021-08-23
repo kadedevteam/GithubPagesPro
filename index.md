@@ -16,7 +16,7 @@ Github Pages Pro is a more advanced version of [Github Pages](https://pages.gith
 > (You can test a demo page of "Pages Pro" Here: [Demo]())
 
 ### Contributing!
-Since Github Pages Pro is a github project that means all of you can help! you can learn how to help on the project and become a contributer [here](https://github.com/kadedevteam/GithubPagesPro/blob/gh-pages/CONTRIBUTING.md)
+Since Github Pages Pro is a github project that means all of you can help! you can learn how to help on the project and become a contributer [here](https://github.com/kadedevteam/GithubPagesPro/blob/gh-pages/contributing.md)
 
 **Changelogs**
 - [LATEST HOTFIX]()
